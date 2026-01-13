@@ -1,0 +1,7 @@
+numbers = (2, 4, 6, 8, 10)
+a=sum(numbers)
+b=max(numbers)
+c=min(numbers)
+print(a)
+print(b)
+print(c)

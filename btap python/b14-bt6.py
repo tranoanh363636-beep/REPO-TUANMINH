@@ -1,0 +1,5 @@
+t = (10, 20, 30, 40)
+a=list(t)
+a.append(50)
+t=tuple(a)
+print(t)
